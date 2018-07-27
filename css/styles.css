@@ -7,12 +7,6 @@ h1 {
     font-weight: bold;
 }
 
-.container {
-    font-family: sans-serif;
-    width: 100%;
-    padding-top: 20px;
-}
-
 .header {
     width: 100%;
     flex: 100%;
