@@ -98,6 +98,12 @@ section.list-items {
     }
 }
 
+@media (max-width: 767px) {
+    .banner {
+        height: 100px;
+    };
+}
+
 @media (min-width: 1200px) {
     .item {
         width: 33.33333%;
